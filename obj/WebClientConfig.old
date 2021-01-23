@@ -44,7 +44,7 @@
     </library-path>
   </compiler>
   <file-specs>
-    <path-element>D:\Downloads 2.0\ee-offline-plus\ee-offline-main\src\WebClient.as</path-element>
+    <path-element>D:\Downloads 2.0\ee-offline-plus\ee-offline-main\src\EverybodyEdits.as</path-element>
   </file-specs>
   <default-background-color>#000000</default-background-color>
   <default-frame-rate>60</default-frame-rate>

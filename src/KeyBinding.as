@@ -10,6 +10,8 @@ package {
 		public static var left:KeyBinding =              _add(1, "Move Left (alt)", new Key(65), new Key(81));       // A / Q
 		public static var down:KeyBinding =              _add(2, "Move Down (alt)", new Key(83));                    // S
 		public static var right:KeyBinding =             _add(3, "Move Right (alt)", new Key(68));                   // D
+		public static var ability1:KeyBinding =          _add(28, "Ability 1", new Key(90));                   		 // Z
+		public static var ability2:KeyBinding =          _add(29, "Ability 2", new Key(88));                   		 // Z
 		public static var godmode:KeyBinding =           _add(4, "Toggle God Mode", new Key(71));                    // G
 		public static var modmode:KeyBinding =           _add(5, "Toggle Mod Mode", new Key(80), null, true);        // P
 		public static var modmodeRow:KeyBinding =        _add(27, "Change Mod Mode Colour", new Key(80, true), null, true); // Shift + P
